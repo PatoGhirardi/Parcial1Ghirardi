@@ -1,0 +1,6 @@
+Marca de vehiculo
+Mitsubishi
+--------------
+Nombre de vehiculo
+Ana
+--------------
